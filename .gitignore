@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+migrations/
+__pycache__/
+env/
+
+# dotenv environment variables file
+.env
+.env.test
